@@ -14,6 +14,7 @@ Framework provides real 5G emulated environment to run DASH videos. Framework in
 
 ## Video Demonstration 
 [Phase 1 - Streaming Framework](https://drive.google.com/file/d/1mGnDVoJqgwN5kXZfEPpSff7pPekEb6Y8/view?usp=sharing)
+[Phase 2 - Dynamic Analysis](https://drive.google.com/file/d/1zIh8zVk3RMz1uKREnn3roOBPu9JNAmZk/view?usp=sharing)
 
 ## Features
 
