@@ -12,6 +12,9 @@ Framework provides real 5G emulated environment to run DASH videos. Framework in
 ## Binder link
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sajibtariq/demo/master?filepath=Notebook%2FExecutable%20notebook.ipynb)
 
+## Video Demonstration 
+[Phase 1 - Streaming Framework](https://drive.google.com/file/d/1mGnDVoJqgwN5kXZfEPpSff7pPekEb6Y8/view?usp=sharing)
+
 ## Features
 
   - Per-segment QoS to QoE mapping
