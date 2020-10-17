@@ -40,7 +40,7 @@ The dataset file has 28 columns, these are
   - 'Play_Pos' as Current Play Back position, RTT as Packet level (ms), determined using HTTP head request
   - 'Clae', ' Duanmu', 'Yin', 'Yu', and 'P1203' five quality of experience models
 
-Finally, 'persegment_RTT', 'Throughput', 'Packets' as network level per segment uplink RTT. downlink Throughput and downlink number of packets. 
+Finally, 'persegment_RTT', 'Throughput', and 'Packets' as network level per segment uplink RTT, downlink throughput and downlink number of packets. 
 
 
 #### For more information of godash logs see below figure 
