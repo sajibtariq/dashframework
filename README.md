@@ -17,6 +17,10 @@ Framework provides real 5G emulated environment to run DASH videos. Framework in
 
 [Interactive notebook with the Binder service](https://drive.google.com/file/d/1zIh8zVk3RMz1uKREnn3roOBPu9JNAmZk/view?usp=sharing)
 
+## Streaming Framework VM
+
+* **Requirement**: [Oracle  VirtualBox 6.1.10](https://www.virtualbox.org/wiki/Downloads)
+-  Download link: [VM](https://drive.google.com/drive/folders/1y4HZ7sYxzCi__yXTpAnZwMQlQy5na04b?usp=sharing) [25 GB Size]: Ubuntu 18.04 x64 - **pass: dash**
 ## Features
 
   - Per-segment QoS to QoE mapping
