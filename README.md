@@ -3,10 +3,10 @@
 
 Framework provides real 5G emulated environment to run DASH videos. Framework installed with following packages
 
-  - goDASH
-  - Mininet-Wifi
-  - Caddy - a WSGI web server hosting DASH video content
-  - Tcpdump - a network packet sniffer
+  - [goDASH](https://github.com/uccmisl/godash)- a  headless DASH video player
+  - [Mininet-Wifi](https://github.com/intrig-unicamp/mininet-wifi)- network emulator 
+  - [Caddy](https://caddyserver.com/)- a WSGI web server hosting DASH video content
+  - [Tcpdump](https://www.tcpdump.org/manpages/tcpdump.1.html- a network packet sniffer
   - Bash scripts to apply the 5G bandwidth values sampled from the 5G traces at run-time
   - Python scripts to process QoE & QoS logs
   
