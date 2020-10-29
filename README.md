@@ -6,7 +6,7 @@ Framework provides real 5G emulated environment to run DASH videos. Framework in
   - godash
   - Mininet-Wifi
   - Caddy - a WSGI web server hosting DASH video content
-  - tCPDUMP - a network packet sniffer
+  - Tcpdump - a network packet sniffer
   - Scripts - Bash scripts to apply the 5G bandwidth values sampled from the 5G traces at run-time
   - Python scripts to process QoE & QoS logs
   
