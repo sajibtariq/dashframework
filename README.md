@@ -23,6 +23,42 @@ Framework provides real 5G emulated environment to run DASH videos. Framework in
 * **Requirement**: [Oracle  VirtualBox 6.1.10](https://www.virtualbox.org/wiki/Downloads)
 *  **Download link**: [VM](https://drive.google.com/drive/folders/1y4HZ7sYxzCi__yXTpAnZwMQlQy5na04b?usp=sharing) [25 GB Size]: Ubuntu 18.04 x64 - **pass: dash**
 
+* **Data Acqisision**
+
+Step  1: Open ubuntu terminal and execute the following command:
+
+```bash
+ $ conda activate myenv
+ $ jupyter lab
+ 
+```
+Step  2: JupyterLab interface and open terminal:
+```bash
+ $ cd ~/Demo/testbed
+ $ sudo python3 parameters.py
+```
+
+* **Data Preprocess and Analysis** 
+
+Step 1: Open the **Executable.ipynb** jupyter notebook from **~/Demo/Notebook** directory.
+
+
+Step 2: To export csv from raw data (godash and pcap), run the following cell in notebook:
+
+
+```bash
+
+%run /home/dash/Demo/Notebook/pre-processing.ipynb
+```
+
+Step 3: To analysis from exported csv, run the following cell in notebook:
+
+```bash
+
+%run /home/dash/Demo/Notebook/Interactive_Control.ipynb
+```
+
+
 
 ## 5G traces dataset
 Please note, in 5G traces there are 10 combinations for real 5G Cases across two scenarios: Mobility-driving (trace no-1, 2, 8, 10) --- (38.26 to 10.33), (29.33 to 10.55), (0.5 to 3) and (6 to 14), and Mobility-static (trace no-4, 5, 6, 7, 9 ,11) --- (72.42 to 9), (70 to 20), (52.06 to 0.5), (4.19 to 8), (0.5 to 6) and (8.29 to 57.15) Mbps. 
