@@ -88,4 +88,4 @@ Finally, 'persegment_RTT', 'Throughput', and 'Packets' as network level per segm
 
 #### For more information of godash logs see below figure 
 
-![](https://github.com/razaulmustafa852/dashframework/blob/master/images/godash_logsinfo.png)
+![](https://github.com/sajibtariq/dashframework/blob/master/Testbed/gpdash-log-notations.png)
