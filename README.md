@@ -89,3 +89,19 @@ Finally, 'persegment_RTT', 'Throughput', and 'Packets' as network level per segm
 #### For more information of godash logs see below figure 
 
 ![](https://github.com/sajibtariq/dashframework/blob/master/Testbed/gpdash-log-notations.png)
+
+## Citation
+R. Ul Mustafa, M. T. Islam, C. Rothenberg, S. Ferlin, D. Raca and J. J. Quinlan, "[DASH QoE Performance Evaluation Framework with 5G Datasets](https://ieeexplore.ieee.org/document/9269111/metrics#metrics)," 2020 16th International Conference on Network and Service Management (CNSM), Izmir, Turkey, 2020, pp. 1-6, doi: 10.23919/CNSM50824.2020.9269111.
+```bash
+@INPROCEEDINGS{9269111, 
+author={R. {Ul Mustafa} and M. T. {Islam} and C. {Rothenberg} and S. {Ferlin} and D. {Raca} and J. J. {Quinlan}},  
+booktitle={2020 16th International Conference on Network and Service Management (CNSM)},   
+title={DASH QoE Performance Evaluation Framework with 5G Datasets},   
+year={2020},  
+volume={},  
+number={},  
+pages={1-6},  
+doi={10.23919/CNSM50824.2020.9269111}}
+```
+
+
