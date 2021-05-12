@@ -69,7 +69,7 @@ Please note, in 5G traces there are 10 combinations for real 5G Cases across two
   - 5G environment to run DASH videos with 10 different combinations of Bandwidth, The combinations are [here](https://github.com/sajibtariq/demo/tree/master/Testbed/5g_traces) 
   - Real 5G Traces collected from https://github.com/uccmisl/5Gdataset
 
-## Processesd dataset description
+## Processed dataset description
 The dataset file has 28 columns, these are 
 'Mode', 'Trace_no', 'Total_host', 'Host_no', 'Segment_no', 'Arr_time', 'Del_Time', 'Stall_Dur', 'Rep_Level', 'Del_Rate', 'Act_Rate', 'Byte_Size', 'Buff_Level', 'Algorithm', 'Seg_Dur', 'Width', 'Height', 'resolutions', 'Play_Pos', 'RTT_app', 'Clae', ' Duanmu', 'Yin', 'Yu', 'P1203', 'persegment_RTT', 'Throughput', 'Packets'
 
