@@ -13,15 +13,15 @@ Framework provides real 5G emulated environment to run DASH videos. Framework in
 ## Binder link
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sajibtariq/demo/master?filepath=Notebook%2FExecutable%20notebook.ipynb)
 
-## Video Demonstration 
+## Video demonstration 
 [Streaming Framework and Dynamic Analysis](https://drive.google.com/file/d/1mGnDVoJqgwN5kXZfEPpSff7pPekEb6Y8/view?usp=sharing)
 
 [Interactive notebook with the Binder service](https://drive.google.com/file/d/1zIh8zVk3RMz1uKREnn3roOBPu9JNAmZk/view?usp=sharing)
 
-## Recorded Paper Presentation
+## Recorded paper presentation
 [Presentation](https://youtu.be/2j5qp9ehUEY)
 
-## Streaming Framework VM
+## Streaming framework VM
 
 * **Requirement**: [Oracle  VirtualBox 6.1.10](https://www.virtualbox.org/wiki/Downloads)
 *  **Download link**: [VM](https://drive.google.com/drive/folders/1y4HZ7sYxzCi__yXTpAnZwMQlQy5na04b?usp=sharing) [25 GB Size]: Ubuntu 18.04 x64 - **pass: dash**
