@@ -53,6 +53,8 @@ Step 2: To export csv from raw data (godash and pcap), run the following cell in
 
 %run /home/dash/Demo/Notebook/pre-processing.ipynb
 ```
+Warning: If encounter any error with given pre-processing.ipynb notebook inside VM. Please try again with pre-processing.ipynb notebook shared [here](https://github.com/sajibtariq/dashframework/blob/master/Notebook/pre-processing.ipynb) inside the VM. And also avoid further errors use the same parameters of the host, algo, and trace list of parameters.py script in Demo/testbed directory and pre-processing.ipynb notebook in Demo/Notebook directory.
+
 
 Step 3: To analysis from exported csv, run the following cell in notebook:
 
@@ -60,7 +62,8 @@ Step 3: To analysis from exported csv, run the following cell in notebook:
 
 %run /home/dash/Demo/Notebook/Interactive_Control.ipynb
 ```
-
+Warning: Inside VM change the line df = pd.read_csv("/home/dash/Demo/Data/Processed/dataset_final_old.csv") to 
+df = pd.read_csv("/home/dash/Demo/Data/Processed/dataset.csv") of Interactive_Control.ipynb notebook in Demo/Notebook directory.
 
 
 ## 5G traces dataset
